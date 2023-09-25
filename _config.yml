@@ -1,0 +1,41 @@
+# site settings
+title: UVM An-Cockrell Lab
+subtitle: Home
+# email: youremailaddress@gmail.com
+description: Welcome. Our lab utilizes modern computational methods to study complex biomedical and physiological phenomena. Our projects extend from highly detailed modeling of specific organ systems and disease processes to the identification of fundamental properties of complex biomedical systems to the development of methods for computation-aided therapeutic discovery. We're glad to have piqued your interest; please check out our work below.
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+# street_address: 1234 Somewhere Road
+# city: Nashville
+# state: TN
+# zip_code: 55555
+# country: United States of America
+# phone: (716) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/an-cockrell
+  GitLab:
+  Instagram:
+  LinkedIn: 
+  Twitter:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
