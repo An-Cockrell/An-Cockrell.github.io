@@ -40,6 +40,17 @@ nav-menu: true
 				<ul class="actions">
 					<li><a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1ZORwWtlp7wA6/bibliography/52429510/public/?sort=date&direction=ascending" class="button">Bibliography</a></li>
 				</ul>
+				<!-- <ul class="icons">
+				{% for key_value in site.socials %}
+					{% if key_value[1] %}
+						<li>
+							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+								<span class="label">{{ key_value[0] }}</span>
+							</a>
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul> -->
 			</div>
 		</div>
 	</section>
