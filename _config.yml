@@ -1,6 +1,6 @@
 # site settings
 title: UVM An-Cockrell Lab
-subtitle: Home
+subtitle: Center for Biomedical Digital Twins
 # email: youremailaddress@gmail.com
 description: Welcome. Our lab utilizes modern computational methods to study complex biomedical and physiological phenomena. Our projects extend from highly detailed modeling of specific organ systems and disease processes to the identification of fundamental properties of complex biomedical systems to the development of methods for computation-aided therapeutic discovery. We're glad to have piqued your interest; please check out our work below.
 baseurl: "/" # the subpath of your site, e.g. /blog
