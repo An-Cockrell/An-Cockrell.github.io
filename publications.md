@@ -6,4 +6,4 @@ image: null
 nav-menu: true
 ---
 
-<h3>Coming soon</h3>
+<h4>Coming soon</h4>

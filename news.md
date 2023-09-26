@@ -9,5 +9,6 @@ author: null
 show_tile: true
 ---
 
-<h1>News</h1>
-<h4>Coming soon</h4>
+<body>
+    <h4>Coming soon</h4>
+</body>
