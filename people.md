@@ -86,7 +86,7 @@ nav-menu: true
 				<header>
 					<h5>Machine Learning Engineer</h5>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem.</p>
+				<p>I received my bachelor's degree in Biomedical Engineering from the University of Vermont, with a focus on applications of computer science in medicine. In my time with the An-Cockerell Lab, I’ve worked on multiple different projects that have allowed me to grow as a Machine Learning Engineer. I have worked with and helped develop computational models of biological phenomena and calibrate them to real world data, used reinforcement learning to create controllers to steer the trajectory of the biological models, and I have leveraged large language models to develop a pipeline to lower the barrier to entry for the development of these models. My career interests have always been in medical technology and research, and I am passionate about using technology to continue making contributions to the field of medical research.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
