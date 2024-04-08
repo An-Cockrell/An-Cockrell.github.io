@@ -54,7 +54,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section id="chase-cockrell>
+	<section id="chase-cockrell">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/chase3.jpeg %}" alt="" data-position="top center" />
 		</a>
