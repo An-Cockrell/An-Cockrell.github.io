@@ -55,7 +55,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="chase-cockrell">
-		<a href="#" class="image">
+		<a href="assets/images/chase3.jpeg" class="image">
 			<img src="{% link assets/images/chase3.jpeg %}" alt="Chase Cockrell, PhD" data-position="top center" />
 		</a>
 		<div class="content">
@@ -75,7 +75,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="dale-larie">
-		<a href="#" class="image">
+		<a href="assets/images/dale.jpg" class="image">
 			<img src="{% link assets/images/dale.jpg %}" alt="Dale Larie" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -94,7 +94,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="damien-socia">
-		<a href="#" class="image">
+		<a href="assets/images/damien2.jpg" class="image">
 			<img src="{% link assets/images/damien2.jpg %}" alt="Damien Socia" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -113,7 +113,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="sol-feuerwerker">
-		<a href="#" class="image">
+		<a href="assets/images/sol.png" class="image">
 			<img src="{% link assets/images/sol.png %}" alt="Sol Feuerwerker, MD" data-position="25% 25%" />
 		</a>
 		<div class="content">
