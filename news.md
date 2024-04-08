@@ -8,7 +8,7 @@ image: null
 author: null
 show_tile: true
 ---
-## News from the An-Cockrell Lab at UVM
+## News from the An-Cockrell Lab at UVM:
 
 <!-- - **2024-10-01**
   ### Some Newer News -->
