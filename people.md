@@ -24,7 +24,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section id="gary-an">
-		<img src="{% link assets/images/gary2.jpg %}" alt="Gary An, MD" data-position="center center" />
+		<img src="assets/images/gary2.jpg" alt="Gary An, MD" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -53,7 +53,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="chase-cockrell">
-		<img src="{% link assets/images/chase3.jpeg %}" alt="Chase Cockrell PhD" data-position="top center" />
+		<img src="assets/images/chase3.jpeg" alt="Chase Cockrell PhD" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -71,7 +71,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="dale-larie">
-		<img src="{% link assets/images/dale.jpg %}" alt="Dale Larie" data-position="25% 25%" />
+		<img src="assets/images/dale.jpg" alt="Dale Larie" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -88,7 +88,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="damien-socia">
-		<img src="{% link assets/images/damien2.jpg %}" alt="Damien Socia" data-position="25% 25%" />
+		<img src="assets/images/damien2.jpg" alt="Damien Socia" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -105,7 +105,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section id="sol-feuerwerker">
-		<img src="{% link assets/images/sol.png %}" alt="Sol Feuerwerker, MD" data-position="25% 25%" />
+		<img src="assets/images/sol.png" alt="Sol Feuerwerker, MD" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
