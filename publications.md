@@ -79,4 +79,6 @@ nav-menu: true
 - **An G.** *In-silico experiments of existing and hypothetical cytokine-directed clinical trials using agent based modeling.* Crit Care Med, 2004. 32(10): 2050-2060. [PMID](https://pubmed.ncbi.nlm.nih.gov/15483414)
 - **An G.** *Agent-based computer simulation and SIRS: Building a bridge between basic science and clinical trials.* Shock, 2001. 16(4):  266-273. [PMID](https://pubmed.ncbi.nlm.nih.gov/11580108/)
 
-https://pubmed.ncbi.nlm.nih.gov/21552346/
+### Pre-Prints
+- **Cockrell C, Schobel-McHugh S, Lisboa F, Vodovotz Y and An G.** *Generating synthetic data with a mechanism-based Critical Illness Digital Twin: Demonstration for Post Traumatic Acute Respiratory Distress Syndrome.* 2022, November 24. bioRxiv [DOI](https://doi.org/10.1101/2022.11.22.517524)
+- **Cockrell C, Christley S, An G.** *Facilitating automated conversion of scientific knowledge into scientific simulation models with the Machine Assisted Generation, Calibration, and Comparison (MAGCC) Framework.* 2022, April 21 arXiv: 2204.10382v1 (cs.AI) [DOI](https://doi.org/10.48550/arXiv.2204.10382)
