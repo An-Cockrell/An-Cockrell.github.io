@@ -23,7 +23,7 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-	<section>
+	<section id="gary-an">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/gary2.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -54,7 +54,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<section id="chase-cockrell>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/chase3.jpeg %}" alt="" data-position="top center" />
 		</a>
@@ -74,7 +74,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<section id="dale-larie">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/dale.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -93,7 +93,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<section id="damien-socia">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/damien2.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -112,7 +112,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<section id="sol-feuerwerker">
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/sol.png %}" alt="" data-position="25% 25%" />
 		</a>
