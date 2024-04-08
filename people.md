@@ -24,7 +24,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section id="gary-an">
-		<a href="#" class="image">
+		<a href="assets/images/gary2.jpg" class="image">
 			<img src="{% link assets/images/gary2.jpg %}" alt="Gary An, MD" data-position="center center" />
 		</a>
 		<div class="content">
