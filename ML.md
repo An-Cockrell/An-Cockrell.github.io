@@ -8,8 +8,7 @@ nav-menu: true
 
 ## Selected ML/AI Projects:
 
-- 
-  ### [DARPA Triage Challenge](https://triagechallenge.darpa.mil/index) Data Competition Track, Funded Team - PI: [Dr. Cockrell](https://www.medicaldigitaltwins.ai/people.html).
+- ### [DARPA Triage Challenge](https://triagechallenge.darpa.mil/index) Data Competition Track, Funded Team - PI: [Dr. Cockrell](https://www.medicaldigitaltwins.ai/people.html).
 
   The DARPA Triage Challenge (DTC) aims to revolutionize medical triage in mass casualty incidents (civilian and military) through the use of technology. The goal is to foster the development of algorithms and sensors for rapid, accurate injury identification. This initiative targets enhancements in stand-off and sensor-based triage, critical in scenarios where medical resources are scarce or overwhelmed.
 
