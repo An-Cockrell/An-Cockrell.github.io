@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-description: Selected works
+description: 
 image: null
 nav-menu: true
 ---
@@ -9,7 +9,7 @@ nav-menu: true
 ## Selected Publications from the An-Cockrell Lab:
 
 
-1.	Laubenbacher R, Adler F, An G, Castiglione F, Eubank S, Fonseca LL, Glazier J, Helikar T, Jett-Tilton M, Kirschner D, Macklin P, Mehrad B, Moore B, Pasour V, Shmulevich I, Smith A, Voight I, Yankeelov TE, Ziemessen T. Towards mechanistic medical digital twinsL some use cases in immunology. Front. Digit. Health, 06 March 2024 Sec. Health Informatics Volume 6 - 2024 | https://doi.org/10.3389/fdgth.2024.1349595
+1.	Laubenbacher R, Adler F, An G, Castiglione F, Eubank S, Fonseca LL, Glazier J, Helikar T, Jett-Tilton M, Kirschner D, Macklin P, Mehrad B, Moore B, Pasour V, Shmulevich I, Smith A, Voight I, Yankeelov TE, Ziemessen T. Towards mechanistic medical digital twinsL some use cases in immunology. Front. Digit. Health, 06 March 2024 Sec. Health Informatics Volume 6 - 2024 https://doi.org/10.3389/fdgth.2024.1349595
 
 2.	Laubenbacher R, Adler F, An G, Castiglione F, Eubank S, Fonseca LL, Glazier J, Helikar T, Jett-Tilton M, Kirschner D, Macklin P, Mehrad B, Moore B, Pasour V, Shmulevich I, Smith A, Voight I, Yankeelov TE, Ziemessen T. Forum on immune digital twins: a meeting report. npj Syst Biol Appl 10, 19 (2024). https://doi.org/10.1038/s41540-024-00345-5
 
@@ -17,7 +17,7 @@ nav-menu: true
 
 4.	Marassi C, Socia D, Larie D, An G, Cockrell RC.Children are small adults (when properly normalized): Transferrable/generalizable sepsis prediction. Surg Open Sci. 2023 Sep 22;16:77-81. doi: 10.1016/j.sopen.2023.09.013. eCollection 2023 Dec. PMID: 37818461
 
-5.	An, G and Cockrell C. Generating synthetic multi-dimensional molecular-mediator trajectories for machine learning: Considerations. Front. Sys. Bio. Volume 3 – 29 June 2023 | doi: 10.3389/fsysb.2023.1188009
+5.	An, G and Cockrell C. Generating synthetic multi-dimensional molecular-mediator trajectories for machine learning: Considerations. Front. Sys. Bio. Volume 3 – 29 June 2023 doi: 10.3389/fsysb.2023.1188009
 
 6.	Cockrell C, Larie D, and An G. Preparing for the next Pandemic: Simulation-based Deep Reinforcement Learning to discover and test multimodal control of systemic inflammation using repurposed immunomodulatory agents. Front. Immunology. 2022 November 8. doi: 10.3389/fimmu.2022.995395
 
@@ -32,6 +32,7 @@ nav-menu: true
 11.	Cockrell, C. and An, G. Comparative Computational Modeling of the Bat and Human Immune Response to Viral Infection with the Comparative Biology Immune Agent Based Model. Viruses 16 August 2021, 13(8), 1620; https://doi.org/10.3390/v13081620
 
 12.	Cockrell C and An G: Using Genetic Algorithms to reproduce the heterogeneity of clinical data through model refinement and rule discovery in a high-dimensional agent-based model of systemic inflammation. Frontiers in Physiology: Computational Physiology and Medicine. 2021 May 19. 12(726). https://doi.org/10.3389/fphys.2021.662845
+
 13.	Cockrell C, Ozik J, Collier N, An G. Nested Active Learning for Efficient Model Contextualization and Parameterization: Pathway to generating simulated populations using multi-scale computational models. Simulation. 2019 May 21:0037549720975075.
 
 14.	Ozik, J, Collier, N, Heiland, R, An, G and Macklin, P. Learning-accelerated discovery of immune-tumour interactions. Molecular Systems Design and Engineering. 2019. Epub 07 June 2019. Doi: 10.1039/C9ME00036D
