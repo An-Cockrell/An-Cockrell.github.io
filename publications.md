@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Publications
-description: 
+description: Selected Publications from the An-Cockrell Lab
 image: null
 nav-menu: true
 ---
-
-## Selected Publications from the An-Cockrell Lab:
 
 ### 2024
 - **Laubenbacher R, Adler F, An G, Castiglione F, Eubank S, Fonseca LL, Glazier J, Helikar T, Jett-Tilton M, Kirschner D, Macklin P, Mehrad B, Moore B, Pasour V, Shmulevich I, Smith A, Voight I, Yankeelov TE, Ziemessen T.** *Towards mechanistic medical digital twins: some use cases in immunology.* Front. Digit. Health, 06 March 2024 Sec. Health Informatics Volume 6 - 2024 [DOI](https://doi.org/10.3389/fdgth.2024.1349595)
