@@ -6,7 +6,7 @@ image: null
 nav-menu: true
 ---
 
-## Selected ML/AI Projects for Clinical and Translational Applications
+## Selected ML/AI Projects:
 
 - 
   ### [DARPA Triage Challenge](https://triagechallenge.darpa.mil/index) Data Competition Track, Funded Team - PI: [Dr. Cockrell](https://www.medicaldigitaltwins.ai/people.html).
