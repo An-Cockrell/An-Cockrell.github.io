@@ -10,9 +10,6 @@ show_tile: true
 ---
 ## News from the An-Cockrell Lab at UVM:
 
-<!-- - **2024-10-01**
-  ### Some Newer News -->
-
 - **2024-04-08**  
   ### [The An-Cockrell Lab Has Been Selected as a Funded Team in the DARPA Triage Challenge](https://triagechallenge.darpa.mil/index) for the Data Competition Track, with [Dr. Cockrell](https://www.medicaldigitaltwins.ai/people.html) as the Primary Investigator.
 
