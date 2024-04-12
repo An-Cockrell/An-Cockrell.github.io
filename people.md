@@ -74,6 +74,44 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section id="syed-bashar">
+		<a href="assets/images/bashar.jpg" class="image">
+			<img src="{% link assets/images/bashar.jpg %}" alt="Syed Bashar" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Syed Khairul Bashar, PhD</h3>
+				</header>
+				<header>
+					<h5>Faculty Scientist</h5>
+				</header>
+				<p>I received my Ph.D. in Biomedical Engineering and M.S. in Electrical Engineering from the University of Connecticut in 2021 and 2019, respectively. During my doctoral work, I developed novel methods to automatically detect and predict atrial fibrillation from critically ill sepsis patients as well as from wearable smartwatches. After my PhD, I was a postdoctoral fellow in the Institute for Computational Medicine at Johns Hopkins University (2021-22) and in the School of Electrical and Computer Engineering at Georgia Institute of Technology (2022-23) where I developed machine learning models for repeat ablation patients using CT scans and analyzed wearable physiological signals of the opioid withdrawal patients, respectively. My research interests include biomedical signal processing, wearable devices, machine learning, cardiovascular diseases, etc.</p>
+				<ul class="actions">
+					<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/syed khairul.bashar.1/bibliography/public/" class="button">Bibliography</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="sol-feuerwerker">
+		<a href="assets/images/sol.png" class="image">
+			<img src="{% link assets/images/sol.png %}" alt="Sol Feuerwerker, MD" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sol Feuerwerker, MD</h3>
+				</header>
+				<header>
+					<h5>Researcher</h5>
+				</header>
+				<p>I am a resident physician and researcher interested in utilizing technology to solve complex problems in science. My future career as a surgeon-scientist will focus on performing clinical and translational research with the aid of computational methods. In the past year, while working at the An-Cockrell lab, I have strongly deepened my knowledge of computer science, including learning a new programming language/paradigm for building computational agent-based models, performing data analyses on large and complex datasets, and training various machine learning algorithms. I am excited to continue honing these skills over the next year as I complete my dedicated research time in residency, and I know I will carry them into the future in my career as a surgeon-scientist. </p>
+				<ul class="actions">
+					<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/1nmLYJmYR8aoEh/bibliography/public/" class="button">Bibliography</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section id="dale-larie">
 		<a href="assets/images/dale.jpg" class="image">
 			<img src="{% link assets/images/dale.jpg %}" alt="Dale Larie" data-position="25% 25%" />
@@ -108,25 +146,6 @@ nav-menu: true
 				<p>In my role as a Machine Learning Engineer at the University of Vermont's An-Cockrell Lab, I've been immersed in the world of biological modeling and machine learning research. During my time here, I've gained valuable experience in diverse aspects of this field. Utilizing computer vision to diagnose Trachoma, a tropical eye disease, learning techniques to train ML models on sparse biomedical datasets, and developing agent based models of biological systems. My career is dedicated to the innovative use of technology to solve complex issues in healthcare and research, and I look forward to advancing this mission in my future endeavors.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="sol-feuerwerker">
-		<a href="assets/images/sol.png" class="image">
-			<img src="{% link assets/images/sol.png %}" alt="Sol Feuerwerker, MD" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sol Feuerwerker, MD</h3>
-				</header>
-				<header>
-					<h5>Researcher</h5>
-				</header>
-				<p>I am a resident physician and researcher interested in utilizing technology to solve complex problems in science. My future career as a surgeon-scientist will focus on performing clinical and translational research with the aid of computational methods. In the past year, while working at the An-Cockrell lab, I have strongly deepened my knowledge of computer science, including learning a new programming language/paradigm for building computational agent-based models, performing data analyses on large and complex datasets, and training various machine learning algorithms. I am excited to continue honing these skills over the next year as I complete my dedicated research time in residency, and I know I will carry them into the future in my career as a surgeon-scientist. </p>
-				<ul class="actions">
-					<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/1nmLYJmYR8aoEh/bibliography/public/" class="button">Bibliography</a></li>
 				</ul>
 			</div>
 		</div>
