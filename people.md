@@ -151,8 +151,10 @@ nav-menu: true
 		</div>
 	</section>
 		<section id="emmanuel-dodson">
-		<a href="assets/images/manny.jpg" class="image">
-			<img src="{% link assets/images/manny.jpg %}" alt="Emmanuel Dodson" data-position="25% 25%" />
+		<!-- assets/images/manny.jpg -->
+		<!-- {% link assets/images/manny.jpg %} -->
+		<a href="" class="image">
+			<img src="" alt="Emmanuel Dodson" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
