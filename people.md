@@ -150,26 +150,24 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-		<section id="emmanuel-dodson">
-		<!-- assets/images/manny.jpg -->
-		<!-- {% link assets/images/manny.jpg %} -->
-		<a href="" class="image">
-			<img src="" alt="Emmanuel Dodson" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Emmanuel Dodson</h3>
-				</header>
-				<header>
-					<h5>Data Analyst</h5>
-				</header>
-				<p>Coming soon.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
+	<!-- <section id="emmanuel-dodson">
+	<a href="assets/images/manny.jpg" class="image">
+		<img src="{% link assets/images/manny.jpg %}" alt="Emmanuel Dodson" data-position="25% 25%" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Emmanuel Dodson</h3>
+			</header>
+			<header>
+				<h5>Data Analyst</h5>
+			</header>
+			<p>Coming soon.</p>
+			<ul class="actions">
+				<li><a href="generic.html" class="button">Learn more</a></li>
+			</ul>
 		</div>
-	</section>
+	</div>
+	</section> -->
 </section>
 </div>
