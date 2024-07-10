@@ -64,7 +64,7 @@ nav-menu: true
 					<h3>Chase Cockrell, PhD</h3>
 				</header>
 				<header>
-					<h5>Assistant Professor of Surgical Research</h5>
+					<h5>Associate Professor of Surgical Research</h5>
 					<h5>Primary Investigator</h5>
 				</header>
 				<p>I received my PhD in Computational Nuclear Physics, where I had experience in high-performance computing implementations of nuclear physics simulations. My post-doctoral and faculty research has focused on computational biology, including the development of high-resolution tissue realistic agent-based models of the gut and volumetric muscle loss, and the use of simulations to study various aspects of the immune system with a focus on characterizing sepsis, which is a disordered immune response to infection. My most recent work has focused on the use of machine learning techniques to calibrate, validate, and control complex simulation models of cellular and molecular pathophysiology, informed by experimental and clinical data.  In my most recent work, I have utilized machine-learning techniques to operate on clinical/electronic health record data, which demonstrate the ability to detect generalizable physiological signatures across populations, predict the onset of long COVID, or identify disease in medical images.</p>
