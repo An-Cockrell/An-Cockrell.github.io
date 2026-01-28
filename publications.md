@@ -7,9 +7,10 @@ nav-menu: true
 ---
 
 ### 2024
+- **Niarakis A, Laubenbacher R, An G, Ilan Y, Fisher J, Flobak Å, Reiche K, Rodríguez Martínez M, Geris L, Ladeira L, Veschini L, Blinov ML, Messina F, Fonseca LL, Ferreira S, Montagud A, Noël V, Marku M, Tsirvouli E, Torres MM, Harris LA, Sego TJ, Cockrell C, et al.** *Immune digital twins for complex human pathologies: applications, limitations, and challenges.* npj Systems Biology and Applications 10, 141 (2024). [DOI](https://doi.org/10.1038/s41540-024-00450-5)
+- **An G, Cockrell C.** *A design specification for Critical Illness Digital Twins to cure sepsis: responding to the National Academies of Sciences, Engineering and Medicine Report: Foundational Research Gaps and Future Directions for Digital Twins.* arXiv preprint arXiv:2405.05301 (2024). [DOI](https://doi.org/10.48550/arXiv.2405.05301)
 - **Laubenbacher R, Adler F, An G, Castiglione F, Eubank S, Fonseca LL, Glazier J, Helikar T, Jett-Tilton M, Kirschner D, Macklin P, Mehrad B, Moore B, Pasour V, Shmulevich I, Smith A, Voight I, Yankeelov TE, Ziemessen T.** *Towards mechanistic medical digital twins: some use cases in immunology.* Front. Digit. Health, 06 March 2024 Sec. Health Informatics Volume 6 - 2024 [DOI](https://doi.org/10.3389/fdgth.2024.1349595)
 - **Laubenbacher R, Adler F, An G, Castiglione F, Eubank S, Fonseca LL, Glazier J, Helikar T, Jett-Tilton M, Kirschner D, Macklin P, Mehrad B, Moore B, Pasour V, Shmulevich I, Smith A, Voight I, Yankeelov TE, Ziemessen T.** *Forum on immune digital twins: a meeting report.* npj Syst Biol Appl 10, 19 (2024). [DOI](https://doi.org/10.1038/s41540-024-00345-5)
-
 
 ### 2023
 - **Feuerwerker S, Cockrell C, An G.** *Characterizing the crosstalk between programmed cell death pathways in cytokine storm with an agent-based model.* Surg Infect (Larchmt). 2023 Oct 12. [DOI](https://doi.org/10.1089/sur.2023.115)
@@ -19,7 +20,7 @@ nav-menu: true
 ### 2022
 - **Cockrell C, Larie D, An G.** *Preparing for the next Pandemic: Simulation-based Deep Reinforcement Learning to discover and test multimodal control of systemic inflammation using repurposed immunomodulatory agents.* Front. Immunology, 2022 Nov 8. [DOI](https://doi.org/10.3389/fimmu.2022.995395)
 - **An G, Cockrell C.** *Drug Development Digital Twins for drug discovery, repurposing and testing: a schema for requirements and development.* Front. Syst. Biol., 2022 June 2. [DOI](https://doi.org/10.3389/fsysb.2022.928387)
-- **An, G.** *Specialty Grand Challenge: What it Will Take to Cross the Valley of Death: Translational Systems Biology, “True” Precision Medicine, Medical Digital Twins, Artificial Intelligence and In Silico Clinical Trials.* Front. Syst. Biol., 2022 April 28. [DOI](https://doi.org/10.3389/fsysb.2022.901159)
+- **An, G.** *Specialty Grand Challenge: What it Will Take to Cross the Valley of Death: Translational Systems Biology, "True" Precision Medicine, Medical Digital Twins, Artificial Intelligence and In Silico Clinical Trials.* Front. Syst. Biol., 2022 April 28. [DOI](https://doi.org/10.3389/fsysb.2022.901159)
 - **Schumaker, G., Becker, A., An, G., Badylak, S., Johnson, S., Jiang, P., Vodovotz, Y., Cockrell, R.C.** *Optical Biopsy Using a Neural Network to Predict Gene Expression from Photos of Wounds.* Journal of Surgical Research, Volume 270, February 2022. [DOI](https://doi.org/10.1016/j.jss.2021.10.017)
 
 ### 2019-2021
@@ -42,7 +43,7 @@ nav-menu: true
 ### 2013-2015
 - **An, G.** *Introduction of a framework for dynamic knowledge representation of the control structure of transplant immunology: employing the power of abstraction with a solid organ transplant agent-based model.* Frontiers in Immunology, Nov 2015. [DOI](https://doi.org/10.3389/fimmu.2015.00561)
 - **Cockrell, C, Christley, S, Chang, E, An, G.** *Towards Anatomic Scale Agent-Based Modeling with a Massively Parallel Spatially Explicit General-purpose Model of Enteric Tissue (SEGMEnT_HPC).* PLoS ONE, Mar 2015. [DOI](https://doi.org/10.1371/journal.pone.0122192)
-- **Peer, X., An, G.** *Agent-based model of Fecal Microbial Transplant effect on Bile Acid Metabolism on suppressing Clostridium difficile infection:  an example of agent-based modeling of intestinal bacterial infection.* J Pharmacokinet Pharmacodyn, Oct 2014. [DOI](https://doi.org/10.1007/s10928-014-9381-1)
+- **Peer, X., An, G.** *Agent-based model of Fecal Microbial Transplant effect on Bile Acid Metabolism on suppressing Clostridium difficile infection: an example of agent-based modeling of intestinal bacterial infection.* J Pharmacokinet Pharmacodyn, Oct 2014. [DOI](https://doi.org/10.1007/s10928-014-9381-1)
 - **An, G, Kulkarni, S.** *An agent-based modeling framework linking inflammation and cancer using evolutionary principles: description of a generative hierarchy for the hallmarks of cancer and developing a bridge between mechanism and epidemiological data* Mathematical Biosciences, 2014. [DOI](https://doi.org/10.1016/j.mbs.2014.07.009)
 - **Uppal, A, Wightman, SC, Ganai, S, Weichselbaum, RR, An, G.** *Investigation of the Essential Role of Platelet-Tumor Cell Interactions in Metastasis Progression Using an Agent-based Model.* Theor Biol Med Model, Apr 2014. [DOI](https://doi.org/10.1186/1742-4682-11-17)
 - **Cockrell, C., Christley, S., An, G.** *Investigation of gut mucosal tissue patterning and inflammation using a Spatially Explicit General-purpose Model of Enteric Tissue (SEGMEnT).* PLoS Comput Biol, Mar 2014. [DOI](https://doi.org/10.1371/journal.pcbi.1003507)
@@ -51,12 +52,11 @@ nav-menu: true
 - **Christley, S., Emr, B., Ghosh, A., Satalin, J., Gatto, L., Vodovotz, Y., Nieman, G.F., An, G.** *Bayesian inference of the lung alveolar spatial model for the identification of alveolar mechanics associated with acute respiratory distress syndrome.* Phys Biol, Apr 2013. [DOI](https://doi.org/10.1088/1478-3975/10/3/036008)
 - **Stern, J.R., Christley, S., Zaborina, O., Alverdy, J.C., An, G.** *Agent-based model of epithelial host-pathogen interactions in anastomotic leak.* J Surg Res, Jan 2013. [DOI](https://doi.org/10.1016/j.jss.2012.12.009)
 
-
 ### 2011-2012
 - **Christley, S., An, G.** *A proposal for augmenting biological model construction with a semi-intelligent computational modeling assistant.* Comput Math Organ Theory, 2012. [DOI](https://doi.org/10.1007/s10588-011-9101-y)
 - **Stern, J.R., Christley, S., Zaborina, O., Alverdy, J.C., An, G.** *Integration of TGF-β and EGFR based signaling pathways using an agent-based modeling of epithelial restitution.* Wound Repair Regen, 2012. [DOI](https://doi.org/10.1111/j.1524-475X.2012.00852.x)
 - **Kim, M., Christley, S., Alverdy, J.C., Liu, D., An, G.** *Immature Oxidative Stress Management as a Unifying Hypothesis in the Pathogenesis of Necrotizing Enterocolitis: Insights from an Agent-based Model.* Surg Infect, Feb 2012. [DOI](https://doi.org/10.1089/sur.2011.057)
-    - Featured in Global Medical Discovery [ISSN 1929 8536] (http://globalmedicaldiscovery.com)
+  - Featured in Global Medical Discovery [ISSN 1929 8536]
 - **Seal, J.B., Alverdy, J.C., Zaborina, O., An, G.** *Agent-based dynamic knowledge representation of Pseudomonas aeruginosa virulence activation in the stressed gut: Towards characterizing host-pathogen interactions in gut-derived sepsis.* Theor Biol Med Model, Sep 2011. [DOI](https://doi.org/10.1186/1742-4682-8-33)
 - **An, G, Christley, S.** *Agent-based Modeling and Biomedical Ontologies: A Roadmap.* Wiley Interdiscip Rev Comput Stat, Apr 2011. [DOI](https://doi.org/10.1002/wics.167)
 - **An, G., Bartels, J., Vodovotz, Y.** *In silico augmentation of the drug development pipeline: Examples from the study of acute inflammation.* Drug Dev Res, Mar 2011. [PMID](https://pubmed.ncbi.nlm.nih.gov/21552346/)
@@ -74,8 +74,20 @@ nav-menu: true
 - **Folcik VA, An G, Orosz CG.** *The Basic Immune Simulator: an agent-based model to study the interactions between innate and adaptive immunity.* Theor Biol Med Model, 2007. [DOI](https://doi.org/10.1186/1742-4682-4-39)
 - **An G.** *Concepts for developing a collaborative in-silico model of the acute inflammatory response using agent based modeling.* J Crit Care, 2006. 21(1): 105-110. [PMID](https://pubmed.ncbi.nlm.nih.gov/16616634/)
 - **An G.** *In-silico experiments of existing and hypothetical cytokine-directed clinical trials using agent based modeling.* Crit Care Med, 2004. 32(10): 2050-2060. [PMID](https://pubmed.ncbi.nlm.nih.gov/15483414)
-- **An G.** *Agent-based computer simulation and SIRS: Building a bridge between basic science and clinical trials.* Shock, 2001. 16(4):  266-273. [PMID](https://pubmed.ncbi.nlm.nih.gov/11580108/)
+- **An G.** *Agent-based computer simulation and SIRS: Building a bridge between basic science and clinical trials.* Shock, 2001. 16(4): 266-273. [PMID](https://pubmed.ncbi.nlm.nih.gov/11580108/)
 
 ### Pre-Prints
-- **Cockrell C, Schobel-McHugh S, Lisboa F, Vodovotz Y and An G.** *Generating synthetic data with a mechanism-based Critical Illness Digital Twin: Demonstration for Post Traumatic Acute Respiratory Distress Syndrome.* 2022, November 24. bioRxiv [DOI](https://doi.org/10.1101/2022.11.22.517524)
-- **Cockrell C, Christley S, An G.** *Facilitating automated conversion of scientific knowledge into scientific simulation models with the Machine Assisted Generation, Calibration, and Comparison (MAGCC) Framework.* 2022, April 21 arXiv: 2204.10382v1 (cs.AI) [DOI](https://doi.org/10.48550/arXiv.2204.10382)
+
+#### bioRxiv
+- **Cockrell C, Vodovotz Y, Zamora R, An G.** *The Wound Environment Agent-based Model (WEABM): a digital twin platform for characterization and complex therapeutic discovery for volumetric muscle loss.* bioRxiv, June 10, 2024. [DOI](https://doi.org/10.1101/2024.06.04.595972)
+- **Cockrell C, Schobel-McHugh S, Lisboa F, Vodovotz Y, An G.** *Generating synthetic data with a mechanism-based Critical Illness Digital Twin: Demonstration for Post Traumatic Acute Respiratory Distress Syndrome.* bioRxiv, March 8, 2023. [DOI](https://doi.org/10.1101/2022.11.22.517524)
+- **Cockrell C, Larie D, An G.** *Preparing for the next Pandemic: Simulation-based Deep Reinforcement Learning to discover and test multimodal control of systemic inflammation using repurposed immunomodulatory agents.* bioRxiv, July 27, 2022. [DOI](https://doi.org/10.1101/2022.07.25.501428)
+- **Larie D, An G, Cockrell C.** *Preparing for the next COVID: Deep Reinforcement Learning trained Artificial Intelligence discovery of multi-modal immunomodulatory control of systemic inflammation in the absence of effective anti-microbials.* bioRxiv, February 18, 2022. [DOI](https://doi.org/10.1101/2022.02.17.480940)
+- **Getz M, Wang Y, An G, Becker A, Cockrell C, Collier N, Craig M, Davis CL, Faeder JR, Ford Versypt AN, Mapder T, Gianlupi JF, Glazier JA, Hamis S, Heiland R, Hillen T, Hou D, Islam MA, Jenner AL, Kurtoglu F, Larkin CI, Liu B, Macfarlane F, Maygrundter P, Morel PA, Narayanan A, Ozik J, Pienaar E, Rangamani P, et al.** *Iterative community-driven development of a SARS-CoV-2 tissue simulator.* bioRxiv, April 29, 2021. [DOI](https://doi.org/10.1101/2020.04.02.019075)
+- **Cockrell C, An G.** *Comparative computational modeling of the bat and human immune response to viral infection with the Comparative Biology Immune Agent Based Model.* bioRxiv, August 11, 2021. [DOI](https://doi.org/10.1101/2021.06.29.450378)
+- **Cockrell RC, An G.** *Genetic Algorithms for model refinement and rule discovery in a high-dimensional agent-based model of inflammation.* bioRxiv, October 31, 2019. [DOI](https://doi.org/10.1101/790394)
+- **Cockrell C, Ozik J, Collier N, An G.** *Nested Active Learning for Efficient Model Contextualization and Parameterization: Pathway to generating simulated populations using multi-scale computational models.* bioRxiv, August 2, 2019. [DOI](https://doi.org/10.1101/644401)
+- **Cockrell C, Axelrod DE.** *Optimization of Dose Schedules for Chemotherapy of Early Colon Cancer Determined by High Performance Computer Simulations.* bioRxiv, September 17, 2018. [DOI](https://doi.org/10.1101/420232)
+
+#### arXiv
+- **Cockrell C, Christley S, An G.** *Facilitating automated conversion of scientific knowledge into scientific simulation models with the Machine Assisted Generation, Calibration, and Comparison (MAGCC) Framework.* arXiv, April 21, 2022. arXiv: 2204.10382v1 (cs.AI) [DOI](https://doi.org/10.48550/arXiv.2204.10382)
