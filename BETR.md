@@ -4,8 +4,9 @@ title: BETR - Bioelectronics for Tissue Repair Program
 description: a collaborative DARPA funded project
 image: null
 nav-menu: true
+tile_order: 2
 ---
-<h5>Volumetric Muscle Loss injury is a debilitating injury marked by significant loss of functionality in affected tissues. The Regenerative Electronic Platform through Advanced Intelligent Regulation (REPAIR) project aims to enhance the regrowth of functional muscle through an AI agent trained with a high-resolution simulation model (the Wound Environment Agent-based Model or WEABM) that recieves input regarding the spatially discrete molecular state of the wound and determines the activation of cell factories engineered to produce a set of pro-, anti-inflammatory cytokines, growth factors and anti-fibrotic agents. This overall structure is compliant with the definition of a Digital Twin as per the National Academies of Sciences, Engineering and Medicine report from 2024. </h5>
+<h5>Volumetric Muscle Loss injury is a debilitating injury marked by significant loss of functionality in affected tissues. The Regenerative Electronic Platform through Advanced Intelligent Regulation (REPAIR) project aims to enhance the regrowth of functional muscle through an AI agent trained with a high-resolution simulation model (the Wound Environment Agent-based Model or WEABM) that receives input regarding the spatially discrete molecular state of the wound and determines the activation of cell factories engineered to produce a set of pro-, anti-inflammatory cytokines, growth factors and anti-fibrotic agents. This overall structure is compliant with the definition of a Digital Twin as per the National Academies of Sciences, Engineering and Medicine report from 2024. </h5>
 
 Overall schematic of REPAIR System
 <span class="image main"><img src="assets/images/Smart Bandage Schematic.jpeg" alt=""/></span>
@@ -20,7 +21,7 @@ Comparison between native healing with fibrosis (left) and idealized effective c
 <span class="image main"><img src="assets/images/Natural_Ideal.png" alt=""/></span>
 
 
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.04.595972v2/">Preprint Summmarizing the Wound Environment Agent-based Model (WEABM): High resolution simulation model of VML</a>
+<a href="https://www.biorxiv.org/content/10.1101/2024.06.04.595972v2/">Preprint summarizing the Wound Environment Agent-based Model (WEABM): High resolution simulation model of VML</a>
 
 Cockrell C., Vodovotz Y., Zamora R. and An, G. "The Wound Environment Agent-based Model (WEABM): a digital twin platform for characterization and complex therapeutic discovery for volumetric muscle loss." 6 June 2024. bioRxiv: 2024.2006.2004.595972. doi: https://doi.org/10.1101/2024.06.04.595972
 

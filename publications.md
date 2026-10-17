@@ -4,9 +4,12 @@ title: Publications
 description: Selected Publications from the An-Cockrell Lab
 image: null
 nav-menu: true
+tile_order: 8
 ---
 
 ### 2024
+
+- **Shin B, An G, Cockrell RC.** *Examining B-cell dynamics and responsiveness in different inflammatory milieus using an agent-based model.* PLoS Comput Biol 20(1) (2024). [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10805321/)
 - **Niarakis A, Laubenbacher R, An G, Ilan Y, Fisher J, Flobak Å, Reiche K, Rodríguez Martínez M, Geris L, Ladeira L, Veschini L, Blinov ML, Messina F, Fonseca LL, Ferreira S, Montagud A, Noël V, Marku M, Tsirvouli E, Torres MM, Harris LA, Sego TJ, Cockrell C, et al.** *Immune digital twins for complex human pathologies: applications, limitations, and challenges.* npj Systems Biology and Applications 10, 141 (2024). [DOI](https://doi.org/10.1038/s41540-024-00450-5)
 - **An G, Cockrell C.** *A design specification for Critical Illness Digital Twins to cure sepsis: responding to the National Academies of Sciences, Engineering and Medicine Report: Foundational Research Gaps and Future Directions for Digital Twins.* arXiv preprint arXiv:2405.05301 (2024). [DOI](https://doi.org/10.48550/arXiv.2405.05301)
 - **Laubenbacher R, Adler F, An G, Castiglione F, Eubank S, Fonseca LL, Glazier J, Helikar T, Jett-Tilton M, Kirschner D, Macklin P, Mehrad B, Moore B, Pasour V, Shmulevich I, Smith A, Voight I, Yankeelov TE, Ziemessen T.** *Towards mechanistic medical digital twins: some use cases in immunology.* Front. Digit. Health, 06 March 2024 Sec. Health Informatics Volume 6 - 2024 [DOI](https://doi.org/10.3389/fdgth.2024.1349595)

@@ -4,6 +4,7 @@ title: Our Team
 description: Meet the lab
 image: null
 nav-menu: true
+tile_order: 7
 ---
 
 <!-- Main -->
@@ -34,9 +35,9 @@ nav-menu: true
 				</header>
 				<header>
 					<h5>Professor of Surgery</h5>
-					<h5>Primary Investigator</h5>
+					<h5>Principal Investigator</h5>
 				</header>
-				<p>I have nearly 20 years-experience with agent-based modeling of inflammation and the immune response, being the first researcher to publish on the use of agent-based modeling in the area of acute inflammation and sepsis. I have partnered with collaborators at the University of Pittsburgh to expand and extend the use of mathematical modeling in the area of sepsis and acute inflammation and wound healing, including the development of one of the first modular multi-organ system ABMs of sepsis. I have been an active participant of the IMAG MSM Consortium since 2011, most recently being an active member of the MSM Working Group on Viral Pandemics and the Subgroup on Developing Immune Digital Twins. I have been active in the agent-based modeling community for 20 years, having served as the President of the Swarm Development Group from 2008-2015, an organization descended from one of the earliest agent-based modeling toolkits, Swarm, initially developed at the Santa Fe Institute, and am a current executive board member. I am a co-Founder of the <a href="https://scai-med.org/">Society for Complexity in Acute Illness</a>, a scientific society designed to bring together laboratory scientists, clinical investigators and computational researchers to study systemic inflammation and acute disease. For the past decade I have worked with Chase Cockrell to develop complex agent-based models of various pathophysiological processes, and collaborating and supporting him as he developed several novel methods that integrated agent-based modeling with advanced computational methods such as evolutionary computing/genetic algorithms, machine/active learning and model-based artificial intelligence to identify fundamental insights into the dynamics of systemic inflammation and develop pathways for multi-modal control discovery of sepsis. </p>
+				<p>I have more than 25 years of experience with agent-based modeling of inflammation and the immune response, being the first researcher to publish on the use of agent-based modeling in the area of acute inflammation and sepsis. I have partnered with collaborators at the University of Pittsburgh to expand and extend the use of mathematical modeling in the area of sepsis and acute inflammation and wound healing, including the development of one of the first modular multi-organ system ABMs of sepsis. I have been an active participant of the IMAG MSM Consortium since 2011, most recently being an active member of the MSM Working Group on Viral Pandemics and the Subgroup on Developing Immune Digital Twins. I have been active in the agent-based modeling community for more than two decades, having served as the President of the Swarm Development Group from 2008-2015, an organization descended from one of the earliest agent-based modeling toolkits, Swarm, initially developed at the Santa Fe Institute, and am a current executive board member. I am a co-Founder of the <a href="https://scai-med.org/">Society for Complexity in Acute Illness</a>, a scientific society designed to bring together laboratory scientists, clinical investigators and computational researchers to study systemic inflammation and acute disease. For the past decade I have worked with Chase Cockrell to develop complex agent-based models of various pathophysiological processes, and collaborating and supporting him as he developed several novel methods that integrated agent-based modeling with advanced computational methods such as evolutionary computing/genetic algorithms, machine/active learning and model-based artificial intelligence to identify fundamental insights into the dynamics of systemic inflammation and develop pathways for multi-modal control discovery of sepsis. </p>
 				<ul class="actions">
 					<li><a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/1ZORwWtlp7wA6/bibliography/52429510/public/?sort=date&direction=ascending" class="button">Bibliography</a></li>
 				</ul>
@@ -65,68 +66,11 @@ nav-menu: true
 				</header>
 				<header>
 					<h5>Associate Professor of Surgical Research</h5>
-					<h5>Primary Investigator</h5>
+					<h5>Principal Investigator</h5>
 				</header>
 				<p>I received my PhD in Computational Nuclear Physics, where I had experience in high-performance computing implementations of nuclear physics simulations. My post-doctoral and faculty research has focused on computational biology, including the development of high-resolution tissue realistic agent-based models of the gut and volumetric muscle loss, and the use of simulations to study various aspects of the immune system with a focus on characterizing sepsis, which is a disordered immune response to infection. My most recent work has focused on the use of machine learning techniques to calibrate, validate, and control complex simulation models of cellular and molecular pathophysiology, informed by experimental and clinical data.  In my most recent work, I have utilized machine-learning techniques to operate on clinical/electronic health record data, which demonstrate the ability to detect generalizable physiological signatures across populations, predict the onset of long COVID, or identify disease in medical images.</p>
 				<ul class="actions">
 					<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/robert.cockrell.1/bibliography/public/" class="button">Bibliography</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="syed-bashar">
-		<a href="assets/images/bashar.jpg" class="image">
-			<img src="{% link assets/images/bashar.jpg %}" alt="Syed Bashar" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Syed Khairul Bashar, PhD</h3>
-				</header>
-				<header>
-					<h5>Faculty Scientist</h5>
-				</header>
-				<p>I received my Ph.D. in Biomedical Engineering and M.S. in Electrical Engineering from the University of Connecticut in 2021 and 2019, respectively. During my doctoral work, I developed novel methods to automatically detect and predict atrial fibrillation from critically ill sepsis patients as well as from wearable smartwatches. After my PhD, I was a postdoctoral fellow in the Institute for Computational Medicine at Johns Hopkins University (2021-22) and in the School of Electrical and Computer Engineering at Georgia Institute of Technology (2022-23) where I developed machine learning models for repeat ablation patients using CT scans and analyzed wearable physiological signals of the opioid withdrawal patients, respectively. My research interests include biomedical signal processing, wearable devices, machine learning, cardiovascular diseases, etc.</p>
-				<ul class="actions">
-					<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/syed khairul.bashar.1/bibliography/public/" class="button">Bibliography</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="sol-feuerwerker">
-		<a href="assets/images/sol.png" class="image">
-			<img src="{% link assets/images/sol.png %}" alt="Sol Feuerwerker, MD" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sol Feuerwerker, MD</h3>
-				</header>
-				<header>
-					<h5>Researcher</h5>
-				</header>
-				<p>I am a resident physician and researcher interested in utilizing technology to solve complex problems in science. My future career as a surgeon-scientist will focus on performing clinical and translational research with the aid of computational methods. In the past year, while working at the An-Cockrell lab, I have strongly deepened my knowledge of computer science, including learning a new programming language/paradigm for building computational agent-based models, performing data analyses on large and complex datasets, and training various machine learning algorithms. I am excited to continue honing these skills over the next year as I complete my dedicated research time in residency, and I know I will carry them into the future in my career as a surgeon-scientist. </p>
-				<ul class="actions">
-					<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/1nmLYJmYR8aoEh/bibliography/public/" class="button">Bibliography</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section id="dale-larie">
-		<a href="assets/images/dale.jpg" class="image">
-			<img src="{% link assets/images/dale.jpg %}" alt="Dale Larie" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Dale Larie</h3>
-				</header>
-				<header>
-					<h5>Machine Learning Engineer</h5>
-				</header>
-				<p>I received my bachelor's degree in Biomedical Engineering from the University of Vermont, with a focus on applications of computer science in medicine. In my time with the An-Cockerell Lab, I’ve worked on multiple different projects that have allowed me to grow as a Machine Learning Engineer. I have worked with and helped develop computational models of biological phenomena and calibrate them to real world data, used reinforcement learning to create controllers to steer the trajectory of the biological models, and I have leveraged large language models to develop a pipeline to lower the barrier to entry for the development of these models. My career interests have always been in medical technology and research, and I am passionate about using technology to continue making contributions to the field of medical research.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -144,9 +88,6 @@ nav-menu: true
 					<h5>Machine Learning Engineer</h5>
 				</header>
 				<p>In my role as a Machine Learning Engineer at the University of Vermont's An-Cockrell Lab, I've been immersed in the world of biological modeling and machine learning research. During my time here, I've gained valuable experience in diverse aspects of this field. Utilizing computer vision to diagnose Trachoma, a tropical eye disease, learning techniques to train ML models on sparse biomedical datasets, and developing agent based models of biological systems. My career is dedicated to the innovative use of technology to solve complex issues in healthcare and research, and I look forward to advancing this mission in my future endeavors.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
