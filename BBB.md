@@ -27,4 +27,4 @@ To keep the model traceable to the literature, we organize the underlying biolog
 
 ### Status
 
-This is an active, in-progress project. The models are implemented in NetLogo and are being iteratively verified against the experimental literature; publications and code will be posted here as they become available.
+This is an active, in-progress project. Initial BioRxiv Preprint can be found at https://www.biorxiv.org/content/10.64898/2026.07.20.739661v3
