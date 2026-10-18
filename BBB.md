@@ -27,4 +27,6 @@ To keep the model traceable to the literature, we organize the underlying biolog
 
 ### Status
 
-This is an active, in-progress project. Initial BioRxiv Preprint can be found at https://www.biorxiv.org/content/10.64898/2026.07.20.739661v3
+This is an active, in-progress project. The initial preprint is available on bioRxiv:
+
+<a href="https://www.biorxiv.org/content/10.64898/2026.07.20.739661v3">An G, Cockrell C. Dynamic knowledge representation of blood brain barrier activation, injury and restitution with a novel agent-based model. bioRxiv (2026).</a>

@@ -5,6 +5,8 @@ description: an ARPA-H CIRCLE program project led by the An-Cockrell Lab
 image: null
 nav-menu: true
 tile_order: 1
+tile_feature: true
+tile_image: assets/images/rescued_team.jpg
 ---
 
 <h5>ReSCUED (Reprogramming Severe Critical Illness Using Extensible Digital Twins) is a multi-site, milestone-based effort of up to five years, funded by the Advanced Research Projects Agency for Health (ARPA-H) through its <a href="https://arpa-h.gov/explore-funding/programs/circle">Critical Illness Immunological Reprogramming and Control Point Learning Engine (CIRCLE)</a> program. The project, led by <a href="{{ '/people.html#gary-an' | relative_url }}">Dr. Gary An</a> as Principal Investigator, aims to build AI-powered digital twins of critically ill patients that clinicians can use to understand and correct the disordered immune response driving diseases of the ICU, such as sepsis, severe trauma and burns.</h5>

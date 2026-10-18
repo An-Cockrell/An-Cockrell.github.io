@@ -5,10 +5,10 @@
 {% endif %}
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
-  <article>
-    <!-- <span class="image">
-      <img src="{{ tile.image }}" alt="{{ tile.title }}" />
-    </span> -->
+  <article{% if tile.tile_feature %} class="feature"{% endif %}>
+    {% if tile.tile_image %}<span class="image">
+      <img src="{{ tile.tile_image | relative_url }}" alt="{{ tile.title }}" data-position="center center" />
+    </span>{% endif %}
     <header class="major">
       <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
       <p>{{ tile.description }}</p>

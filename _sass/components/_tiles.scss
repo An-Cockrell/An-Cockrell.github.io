@@ -181,3 +181,63 @@
 			}
 		}
 	}
+
+/* Featured tile: full-width banner at twice the standard tile height */
+
+	.tiles {
+		article.feature {
+			flex: none;
+			height: 80vh;
+			max-height: 80em;
+			min-height: 46em;
+			width: 100%;
+
+			h3 {
+				font-size: 2.75em;
+			}
+
+			p {
+				font-size: 1.15em;
+			}
+		}
+
+		// Shift the alternating wide/narrow pattern so the tiles after the banner still fill each row
+		article.feature ~ article {
+			flex: 0 1 auto;
+		}
+
+		article.feature ~ article:nth-child(4n),
+		article.feature ~ article:nth-child(4n - 1) {
+			flex: 1 auto;
+		}
+
+		@include breakpoint(large) {
+			article.feature {
+				height: 60vh;
+				max-height: 60em;
+				min-height: 40em;
+			}
+		}
+
+		@include breakpoint(medium) {
+			article.feature {
+				width: 100% !important;
+			}
+		}
+
+		@include breakpoint(small) {
+			article.feature {
+				height: 32em;
+
+				h3 {
+					font-size: 2em;
+				}
+			}
+		}
+
+		@include breakpoint(xsmall) {
+			article.feature {
+				height: 40em;
+			}
+		}
+	}
